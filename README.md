@@ -1,5 +1,8 @@
 <h1 align="center">Hi👋🏻, I'm Berkan</h1>
-<h3 align="center"> I am an iOS Developer in Istanbul.</h3>
+
+<h3 align="center"> iOS Developer with 4+ years of experience building scalable and secure mobile applications using Swift, SwiftUI and UIKit. 
+I have worked on large-scale production apps at leading companies, primarily in fintech and consumer-focused domains. I also developed a Banking as a Service SDK.
+I focus on clean architecture, security, and delivering high-quality user experiences.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
