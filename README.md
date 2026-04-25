@@ -1,15 +1,17 @@
-<h1 align="center">Hi👋🏻, I'm Berkan</h1>
+<h1 align="left">Hi 👋🏻, I'm Berkan</h1>
 
-<h3 align="center"> iOS Developer with 4+ years of experience building scalable and secure mobile applications using Swift, SwiftUI and UIKit. 
-I have worked on large-scale production apps at leading companies, primarily in fintech and consumer-focused domains. I also developed a Banking as a Service SDK.
-I focus on clean architecture, security, and delivering high-quality user experiences.</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/berkancaliskan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkancaliskan/" height="30" width="40" /></a>
-<a href="https://medium.com/@berkancaliskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkancaliskan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/berkancaliskanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/berkancaliskanw" height="30" width="40" /></a>
+iOS Developer with 4+ years of experience building scalable and secure mobile applications using Swift, SwiftUI and UIKit.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<h3 align="left">📩 How to reach me</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/berkancaliskan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Berkan%20%C3%87al%C4%B1%C5%9Fkan-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="mailto:berkancaliskanw@gmail.com">
+  <img src="https://img.shields.io/badge/Email-berkancaliskanw%40gmail.com-D14836?style=for-the-badge" />
+</a>
+</p>
